@@ -11,7 +11,7 @@ This project was created as part of my journey to learn and showcase **Data Visu
 
 ---
 
-## 📁 Dataset
+##  Dataset
 - **Source:** [Kaggle – Nike Sales Data](https://www.kaggle.com/)  
 - **Format:** Excel (`Nike-Sales-Dataset.xlsx`)  
 - **Contents:**  
@@ -22,16 +22,16 @@ This project was created as part of my journey to learn and showcase **Data Visu
 
 ---
 
-## 🔍 Key Features
-- 📈 **Revenue Trend Analysis** – Sales and revenue over time  
-- 🌍 **Region-wise Performance** – Map view of sales across different geographies  
-- 👟 **Top-selling Products** – Categories & subcategories with highest revenue  
-- 🎛 **Interactive Filters** – Dynamic slicers for year, product category, and region  
-- 📊 **KPIs** – Total Sales, Revenue, Profit, and Growth Rate  
+##  Key Features
+-  **Revenue Trend Analysis** – Sales and revenue over time  
+-  **Region-wise Performance** – Map view of sales across different geographies  
+-  **Top-selling Products** – Categories & subcategories with highest revenue  
+-  **Interactive Filters** – Dynamic slicers for year, product category, and region  
+-  **KPIs** – Total Sales, Revenue, Profit, and Growth Rate  
 
 ---
 
-## 💡 Tools Used
+##  Tools Used
 - **Microsoft Power BI Desktop** – Dashboard development  
 - **Power Query Editor** – Data cleaning & transformation  
 - **DAX (Data Analysis Expressions)** – Custom measures and KPIs  
@@ -39,7 +39,7 @@ This project was created as part of my journey to learn and showcase **Data Visu
 
 ---
 
-## 🛠️ Implementation Steps
+##  Implementation Steps
 
 1. **Data Collection**
    - Downloaded the Nike Sales dataset from Kaggle (`Nike-Sales-Dataset.xlsx`).  
@@ -82,8 +82,7 @@ This project was created as part of my journey to learn and showcase **Data Visu
 
 ---
 
-##  Screenshots
-- 📸 **Dashboard Preview:**  
+##  Screenshots of Output 
   <img width="1920" height="1080" alt="Screenshot From 2025-08-19 15-11-19" src="https://github.com/user-attachments/assets/9968ca52-5237-466a-8455-dc77b46e4b43" />
 <img width="1920" height="1080" alt="Screenshot From 2025-08-19 15-11-30" src="https://github.com/user-attachments/assets/34000d57-89c0-48ed-b74a-2c4d95a50637" />
 <img width="1920" height="1080" alt="Screenshot From 2025-08-19 15-11-47" src="https://github.com/user-attachments/assets/2b3e9818-540d-47d8-a8a8-6e8fb0a38b6a" />
@@ -91,14 +90,14 @@ This project was created as part of my journey to learn and showcase **Data Visu
 
 
 
-## 🚀 How to Use
+##  How to Use
 2. Open the `Nike-Sales-Dataset.xlsx` file to view raw data.  
 3. Open the `Dashboard.pbix` file in **Microsoft Power BI Desktop**.  
 4. Explore the dashboard with interactive filters.  
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 - Footwear category contributed the **highest revenue share**.  
 - **North America** emerged as the top-performing region.  
 - Sales showed **consistent growth** over multiple years.  
