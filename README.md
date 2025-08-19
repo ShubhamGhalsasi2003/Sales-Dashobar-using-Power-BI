@@ -108,5 +108,6 @@ This project was created as part of my journey to learn and showcase **Data Visu
 
 ## Author
 **Shubham Ghalsasi**  
-- 🌐 [GitHub Profile](https://github.com/)  
-- 💼 [LinkedIn Profile](https://linkedin.com/)  
+Final Year B.Tech – Cloud Computing
+MIT ADT University
+📫 ghalsasishubham@gmail.com
