@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Dashboard – Nike Dataset
+#  Power BI Sales Dashboard – Nike Dataset
 
 An interactive Power BI dashboard analyzing Nike’s sales performance across regions, time, and product categories.  
 This project was created as part of my journey to learn and showcase **Data Visualization & Business Intelligence** using **Power BI**.  
@@ -106,7 +106,7 @@ This project was created as part of my journey to learn and showcase **Data Visu
 ---
 
 
-## 👨‍💻 Author
+## Author
 **Shubham Ghalsasi**  
 - 🌐 [GitHub Profile](https://github.com/)  
 - 💼 [LinkedIn Profile](https://linkedin.com/)  
